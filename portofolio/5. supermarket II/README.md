@@ -7,7 +7,7 @@ Mencapai level lebih tinggi dalam analisis data dengan Power BI, kali ini saya m
 - ✅ Kategori Terlaris: Electronic Accessories, Fashion Accessories, Food & Beverage
 - ✅ Analisis Revenue Harian: Fluktuasi pendapatan dengan puncak tertinggi mencapai $2.9K dalam sehari
 - ✅ Customer Satisfaction Tracking: Memantau tren kepuasan pelanggan secara real-time
-🔥 Keunggulan Dashboard Ini:
+## 🔥 Keunggulan Dashboard Ini:
 - ✔ Interactive Bookmarks: Navigasi cepat antar halaman analisis
 - ✔ Dynamic Filtering: Menyesuaikan tampilan data berdasarkan kategori produk, metode pembayaran, dan jenis pelanggan
 - ✔ Trend Analysis: Menyediakan wawasan mendalam tentang pola belanja pelanggan
