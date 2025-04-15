@@ -1,4 +1,4 @@
-#Project 1: Coffee Sales Analysis ☕📊
+# Project 1: Coffee Sales Analysis ☕📊
 
 Memulai langkah pertama dalam analisis data dengan Power BI! 📉✨
 Di project ini, saya menganalisis penjualan kopi berdasarkan total pendapatan, volume penjualan, serta tren penjualan bulanan. Beberapa insight utama:
