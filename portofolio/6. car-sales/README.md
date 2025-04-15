@@ -12,5 +12,6 @@ Melangkah ke tingkat berikutnya dalam analisis data dengan Power BI, kali ini sa
 - ✔ Kolom Link Bergambar: Menampilkan informasi kendaraan secara visual langsung dari dashboard
 - ✔ Dynamic Filtering: Memungkinkan analisis berdasarkan merk, model, tahun produksi, dan tipe transmisi
 - ✔ Trend & Market Insights: Memudahkan pemahaman pola harga dan preferensi pasar
+
   ---
 Dengan fitur visual yang lebih interaktif, analisis ini dapat membantu dalam strategi harga dan keputusan pembelian kendaraan!
